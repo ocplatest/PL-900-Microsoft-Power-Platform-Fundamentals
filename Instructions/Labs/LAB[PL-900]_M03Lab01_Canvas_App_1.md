@@ -77,7 +77,7 @@ In this task, you will create a canvas app using the phone layout template based
 
     1.  Click **File > Save**.
     
-    2.  Type the name of the app as **Campus Staff**
+    2.  Type the name of the app as **Campus Staff(DeploymentId)**
     
     3.  Press **Save**.
 
