@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab: Data Modeling'
-    module: 'Module 2: Introduction to the Common Data Service'
+    module: 'Module 1: Introduction to the Common Data Service'
 ---
 
 # Module 2: Introduction to the Common Data Service
