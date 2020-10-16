@@ -66,7 +66,7 @@ Task \#1: Create Canvas App
     -   If you are creating your first app, this will ask you to set the
         Country/region for the app. Click **Get Started.**
     -   Click File and select Save As.
-    -   Check if **The Cloud** is selected. Enter **Campus Security** for Name and
+    -   Check if **The Cloud** is selected. Enter **Campus Security(DeploymentId)** for Name and
         click **Save**. This will make sure that the changes are not lost if the app closes unexpectedly.
     -   Click the back arrow at the top right (below "Power Apps") to return to the app.
 
