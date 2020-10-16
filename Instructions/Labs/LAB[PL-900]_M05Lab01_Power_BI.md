@@ -91,7 +91,7 @@ Task \#1: Prepare Data
 
 16. Click **...* next to the **bc_scheduledstart** field and select **Rename**. Enter **Start** as the field name.
 
-17. Save work in progress by pressing **File \| Save** and entering a filename of your choice.
+17. Save work in progress by pressing **File \| Save** and enter the name as **PowerBIReport**.
 
 ## Task #2: Create Chart and Time Visualizations
 
@@ -128,7 +128,7 @@ Exercise #2: Create Power BI Dashboard
 3. Select **Pin a live page** on the menu. Depending on the layout you may need to press **...** to show additional menu items.
 4. Select **New dashboard** on **Pin to dashboard** prompt.
 5. Enter **Campus Management** as a **Dashboard name**, press **Pin live**.
-6. Select **My workspace** at the top, select **Campus Management** dashboard.
+6. Select **My workspace** at the top, select **Campus Management(Deployment Id)** dashboard.
 7. Test interactivity of the pie and bar charts displayed.
 
 ## Task #3: Add Visualizations Using Natural Language
