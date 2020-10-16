@@ -67,6 +67,8 @@ If you do not have and were not given an environment prior to the exercise, in t
 
 3.  Enter **Practice(DeploymentId)** for **Name**, for example - Practice215689 . Deployment ID is the numeric unique ID provided in your lab username.
 
+    <kbd>![](images/did.jpg)</kbd>
+
 4.  Select **Production** in the dropdown for **Type.**
 
 5.  Select your **Region**
