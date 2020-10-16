@@ -65,7 +65,7 @@ If you do not have and were not given an environment prior to the exercise, in t
 2.  Select **Environments** and click **New** from the top menu. This will open
     a menu on the right-hand side of the window.
 
-3.  Enter **Bellows College [Your Last Name]** for **Name**.
+3.  Enter **Practice(DeploymentId)** for **Name**, for example - Practice215689 . Deployment ID is the numeric unique ID provided in your lab username.
 
 4.  Select **Production** in the dropdown for **Type.**
 
@@ -110,7 +110,7 @@ Task \#2: Create Solution and Publisher
 
     -   Select **Solutions** from the left menu and click **New Solution**.
 
-    -   Enter **Campus Management** for **Display Name**.
+    -   Enter **Campus Management(DeploymentId)** for **Display Name**.
 
 2.  Create Publisher
 
