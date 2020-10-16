@@ -132,7 +132,7 @@ Task \#1: Create Application
 
     -   Click **New** and select **App** and then **Model-Driven App**. This will open a new tab.
     -   Select **Use existing solution to create the App** checkbox
-    -   Enter **Campus Management** for Name and click **Done**.
+    -   Enter **Campus Management(DeploymentId)** for Name and click **Done**.
 3.  Click the pencil icon next to **Site Map.**
 4.  Edit the default titles
 
